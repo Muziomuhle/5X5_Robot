@@ -6,8 +6,7 @@
   "scripts": {
     "dev": "ts-node-dev --exit-child src/index.ts",
 	"dev2": "ts-node-dev src/index.ts",
-    "start": "ts-node src/index.ts",
-	"foo": "./node_modules/ts-node/dist/bin.js index.ts"
+    "start": "ts-node src/index.ts"
   },
   "author": "",
   "license": "ISC",
